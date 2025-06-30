@@ -19,7 +19,7 @@ TASK5: Capture and analyze network traffic using wireshark
 
 ![wireshark_stop capture](https://github.com/user-attachments/assets/46a9f910-e2ef-49a6-9afe-db9f35387f6e)
 
-## Step-5 Filter captured packetss by protocol (e.g , HTTP,DNS,TCP)
+## Step-5 Filter captured packets by protocol (e.g , HTTP,DNS,TCP)
 
 ## HTTP
 ![wireshark_http](https://github.com/user-attachments/assets/112c0b4a-ad03-4563-8a92-052c585988c9)
@@ -28,7 +28,8 @@ TASK5: Capture and analyze network traffic using wireshark
 ![wireshark_dns](https://github.com/user-attachments/assets/adfa1078-5e6a-4ffb-bfab-13fb9e455784)
 
 ## TCP
-![wireshark_tcp](https://github.com/user-attachments/assets/9bdc619d-66e9-48ec-a76b-e42c24c3499d)
+![wireshark_tcp](https://github.com/user-attachments/assets/05027f99-6102-4b94-a929-c5e77a359626)
+
 
 
 
@@ -41,7 +42,7 @@ Captured packets showing details like source ,destination,protocol ,lenght etc.
 
 ## 2. Filter Packets:
 
-use filters based on specific criteria like ip address,protocol,port etc.
+Use filters based on specific criteria like ip address,protocol,port etc.
 
 ![wireshark_3_analyse _tcp_filter](https://github.com/user-attachments/assets/4a4853ba-5f47-44b9-acbc-b77fa828eb5a)
 
